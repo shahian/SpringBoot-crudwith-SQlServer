@@ -1,4 +1,4 @@
-# SpringBoot crudwith SQlServer
+# SpringBoot crudwith SQLServer
 Configuring Spring Boot for Microsoft SQL Server:
 A common problem that trips up many Java developers trying to connect to SQL Server is this error:
 
